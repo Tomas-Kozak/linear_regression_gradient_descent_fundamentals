@@ -1,1 +1,1 @@
-# linear_regression_gradient_descend_fundamentals
+# linear_regression_gradient_descent_fundamentals
